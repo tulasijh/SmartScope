@@ -1,0 +1,2 @@
+// Creates the csv file for each of the labelled image in the raw directory
+// We use the images in the csv file to further preprocess it make it ready to tune the model
